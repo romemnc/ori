@@ -1,0 +1,40 @@
+body {
+    font-size: 15pt;
+}
+
+.header, .logo, .logofoot{
+  font-family: 'Fredoka', sans-serif;
+}
+
+.head, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Montserrat', Helvetica;
+}
+  
+.p, p,li {
+  font-family: 'Poppins', Helvetica;
+}
+
+.home {
+  background-image: url(img/head.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.mat {
+  background-image: url(img/bg22.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.logo {
+  font-size: 22pt !important;
+}
+
+.logofoot {
+  font-size: 30pt !important;
+}
+
+#end {
+}
